@@ -15,7 +15,7 @@
 &emsp;
 <a target="_blank" href="https://moetive.github.io/-bootcamp-portfolio/"
 ><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=appveyor"></img></a>
-<p> ## Email: mailto:dev@moetive.anonaddy.com </p>
+<p> Email: mailto:dev@moetive.anonaddy.com </p>
 <br>
 </p>
 
