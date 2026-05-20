@@ -27,7 +27,7 @@
 
 ```yaml
 name: Mo
-role: Full-stack developer
+role: Tinkerer
 focus:
   - building automation pipelines that power web apps
   - exploring offensive & defensive security
