@@ -35,8 +35,6 @@ currently_learning:
   - web app security fundamentals
   - secure CI/CD practices
   - threat modeling
-pronouns: he/him
-fun_fact: my code deploys faster than my coffee brews
 ```
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; Connect
