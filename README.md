@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/moetive?label=Followers&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="followers"/>
   </a>
   &nbsp;
-  <img src="https://profile-counter.glitch.me/moetive/count.svg" alt="visitors"/>
+
 </p>
 
 ---
