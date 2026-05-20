@@ -6,7 +6,7 @@
 <!-- Typing SVG with rotating identities -->
 <p align="center">
   <a href="https://github.com/moetive">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamed+%F0%9F%91%8B;Automation+engineer+%E2%9A%99%EF%B8%8F;Pipeline+architect+%F0%9F%94%97;Full-stack+developer+%F0%9F%92%BB;Security+curious+%F0%9F%94%90" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mo+%F0%9F%91%8B;Automation+engineer+%E2%9A%99%EF%B8%8F;Pipeline+architect+%F0%9F%94%97;Full-stack+developer+%F0%9F%92%BB;Security+curious+%F0%9F%94%90" alt="typing"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; About me
 
 ```yaml
-name: Mohamed
+name: Mo
 role: Full-stack developer
 focus:
   - building automation pipelines that power web apps
